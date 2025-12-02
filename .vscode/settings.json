@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.embeddedhtml": "html",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -50,6 +51,7 @@
         "__verbose_abort": "cpp",
         "ios": "cpp",
         "locale": "cpp",
-        "execution": "cpp"
+        "execution": "cpp",
+        "regex": "cpp"
     }
 }
