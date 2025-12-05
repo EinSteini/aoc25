@@ -52,6 +52,9 @@
         "ios": "cpp",
         "locale": "cpp",
         "execution": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "bitset": "cpp",
+        "mutex": "cpp",
+        "print": "cpp"
     }
 }
